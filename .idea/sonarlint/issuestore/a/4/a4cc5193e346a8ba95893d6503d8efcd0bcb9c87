@@ -1,0 +1,14 @@
+
+t
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(©šÓ¡ÿÿÿÿÿ
+t
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(©šÓ¡ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃïÌ¦þÿÿÿÿ
+y
+java:S4144L"^Update this method so that its implementation is not identical to "getAllEtudiant" on line 70.(˜×æ†ûÿÿÿÿ
+Ä
+java:S6804$"­Either replace the "@Value" annotation with a standard field initialization, use "${propertyName}" to inject a property or use "#{expression}" to evaluate a SpEL expression.(„åÀ‰
+i
+java:S16027"SRemove useless curly braces around statement and then remove useless return keyword(ˆ³»®
+i
+java:S1602;"SRemove useless curly braces around statement and then remove useless return keyword(™åæœ
